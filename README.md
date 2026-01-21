@@ -124,7 +124,7 @@ I combine **AI + traditional software engineering** to ship faster, debug smarte
 
 ---
 
-## 📫 Let's Connect 🚀
+## 📫 Let's Connect on a new open source initiative! 🚀
 
 - **Email:** umarmd709@gmail.com
 - **LinkedIn:** https://linkedin.com/in/muhammad-umar-dalhat
