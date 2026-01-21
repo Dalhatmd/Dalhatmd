@@ -1,12 +1,21 @@
 <h1 align="center">Muhammad Umar</h1>
 <p align="center">
-  Software Engineering • Systems • Backends • Games
+  <strong>Software Engineering • Systems • Backends • Games</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:umarmd709@gmail.com">Email</a> •
-  <a href="https://github.com/dalhatmd">GitHub</a> •
-  <a href="https://linkedin.com/in/muhammad-umar-dalhat">LinkedIn</a>
+  <a href="mailto:umarmd709@gmail.com">📧 Email</a> •
+  <a href="https://github.com/dalhatmd">🐙 GitHub</a> •
+  <a href="https://linkedin.com/in/muhammad-umar-dalhat">🔗 LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Backends-blue" />
+  <img src="https://img.shields.io/badge/Learning-Go-brightgreen" />
+  <img src="https://img.shields.io/badge/Location-Nigeria-yellow" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collab-orange" />
 </p>
 
 ---
@@ -40,12 +49,45 @@ I combine **AI + traditional software engineering** to ship faster, debug smarte
 
 ## 🛠 Skills & Tools
 
-**Languages:** C, Go, Python, SQL, JavaScript  
-**Backend:** FastAPI, Flask, Django, WebSockets, REST  
-**Systems:** Raycasting, Emulators, Shells, Memory Models  
-**Database:** PostgreSQL, Redis, SQLite  
-**Frontend:** React (learning), HTML/CSS  
-**Tools:** Git, Neovim, Poetry, Docker, Linux/WSL
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092D1F?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiber-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-00aa00" />
+  <img src="https://img.shields.io/badge/REST-02569B" />
+</p>
+
+
+### **Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</p>
+
 
 ---
 
@@ -58,12 +100,20 @@ I combine **AI + traditional software engineering** to ship faster, debug smarte
 
 ---
 
-## 📈 Coding Philosophy
+## 📊 GitHub Stats
 
-- Build **for real users**, not just demos
-- Performance & clarity over hype
-- Ship first, refactor with insight
-- AI = **multiplier for good engineering**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dalhatmd&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dalhatmd" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalhatmd&layout=compact&hide_border=true" />
+</p>
+
 
 ---
 
@@ -74,10 +124,10 @@ I combine **AI + traditional software engineering** to ship faster, debug smarte
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect 🚀
 
 - **Email:** umarmd709@gmail.com
-- **LinkedIn:** linkedin.com/in/johndoe
-- **GitHub:** github.com/dalhatmd
+- **LinkedIn:** https://linkedin.com/in/muhammad-umar-dalhat
+- **GitHub:** https://github.com/dalhatmd
 
 ---
